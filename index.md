@@ -11,7 +11,7 @@ layout: default
   </p>
 
   <p style="margin: 5px 0 0 0; font-size: 14px; color: #777;">
-    <a href="https://x.com/chnkukoolwal" style="color: inherit; text-decoration: none;">
+    <a href="https://linktr.ee/chnkukoolwal" style="color: inherit; text-decoration: none;">
       @chnkukoolwal
     </a>
   </p>

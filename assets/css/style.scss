@@ -3,21 +3,39 @@
 
 @import "{{ site.theme }}";
 
+/* Layout */
 body {
-  background-color: white;
-  color: black;
-  font-family: -apple-system, system-ui;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 0 20px;
+  background: white;
+  color: #111;
+  font-family: -apple-system, BlinkMacSystemFont, system-ui;
+  line-height: 1.7;
 }
 
+/* Titles */
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+/* Links */
 a {
   color: black;
+  text-decoration: none;
+}
+
+a:hover {
   text-decoration: underline;
 }
 
-.site-title {
-  font-weight: bold;
+/* Article spacing */
+article {
+  margin-bottom: 80px;
 }
 
-.post-link {
-  color: black;
+/* Remove weird theme elements */
+.site-header,
+.site-footer {
+  display: none;
 }

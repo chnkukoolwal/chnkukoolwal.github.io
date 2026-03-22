@@ -10,8 +10,13 @@ body {
   padding: 0 20px;
   background: white;
   color: #111;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Times New Roman", Times, serif !important;
   line-height: 1.7;
+}
+
+/* Force all text to use it */
+* {
+  font-family: "Times New Roman", Times, serif !important;
 }
 
 /* Titles */

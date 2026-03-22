@@ -35,7 +35,7 @@ layout: default
 
     <!-- Intake form links -->
     <p style="margin: 5px 0 2px 0; font-size: 14px; color: #555; line-height: 1.2;">
-      Join our portfolio: <a href="https://jazzy-yttrium-143.notion.site/326cd7e0672c810385dfc3251f95ae38?pvs=105" style="color: #111; text-decoration: none;">Founder Intake Form</a>
+      Join the portfolio: <a href="https://jazzy-yttrium-143.notion.site/326cd7e0672c810385dfc3251f95ae38?pvs=105" style="color: #111; text-decoration: none;">Founder Intake Form</a>
     </p>
     <p style="margin: 2px 0 0 0; font-size: 14px; color: #555; line-height: 1.2;">
       Join the fund: <a href="https://jazzy-yttrium-143.notion.site/327cd7e0672c814eb9a1e77dcf94e955?pvs=105" style="color: #111; text-decoration: none;">Investor Intake Form</a>

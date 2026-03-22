@@ -1,3 +1,5 @@
 title: "Chinku Koolwal"
 description: "Weekly posts"
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed

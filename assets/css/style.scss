@@ -3,27 +3,21 @@
 
 @import "{{ site.theme }}";
 
-/* Change background */
 body {
-  background-color: #f5f5f5;
+  background-color: white;
+  color: black;
+  font-family: -apple-system, system-ui;
 }
 
-/* Change text colour */
-body {
-  color: #111111;
-}
-
-/* Change link colour */
 a {
-  color: #e63946;
+  color: black;
+  text-decoration: underline;
 }
 
-/* Change header/title colour */
 .site-title {
-  color: #000000;
+  font-weight: bold;
 }
 
-/* Change post titles */
 .post-link {
-  color: #1d3557;
+  color: black;
 }

@@ -7,10 +7,10 @@ layout: default
   <!-- Left side: profile image, name, social links, handle -->
   <div style="flex: 1; min-width: 250px; display: flex; flex-direction: column; align-items: flex-start;">
 
-    <!-- Profile image -->
+    <!-- Rectangular profile image -->
     <img src="https://github.com/chnkukoolwal/chnkukoolwal.github.io/blob/main/IMG_9253.jpg?raw=true" 
          alt="Chinku Koolwal" 
-         style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%; margin-bottom: 15px;">
+         style="width: 150px; height: auto; object-fit: cover; margin-bottom: 15px;">
 
     <h1 style="margin: 0 0 10px 0; font-size: 32px; font-weight: 600; line-height: 1.4;">
       Chinku Koolwal

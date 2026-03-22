@@ -12,16 +12,16 @@ layout: default
     Startup Advisor & Venture Scout
   </p>
 
-  <p style="margin: 5px 0 10px 0; font-size: 14px; color: #888;">
-    <a href="https://linktr.ee/chnkukoolwal" style="color: inherit; text-decoration: none;">@chnkukoolwal</a>
-  </p>
-
   <!-- Connect links -->
   <p style="margin: 10px 0 20px 0; font-size: 14px; color: #555;">
     <a href="https://www.linkedin.com/in/chnkukoolwal/" style="color: inherit; text-decoration: none;">LinkedIn</a> • 
     <a href="https://x.com/chnkukoolwal" style="color: inherit; text-decoration: none;">X</a> •
     <a href="https://chnkukoolwal.medium.com/" style="color: inherit; text-decoration: none;">Medium</a> •
     <a href="https://substack.com/@chnkukoolwal" style="color: inherit; text-decoration: none;">Substack</a>
+  </p>
+
+  <p style="margin: 5px 0 10px 0; font-size: 14px; color: #888;">
+    <a href="https://linktr.ee/chnkukoolwal" style="color: inherit; text-decoration: none;">@chnkukoolwal</a>
   </p>
 
 </div>

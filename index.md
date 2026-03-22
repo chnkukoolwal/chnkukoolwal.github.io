@@ -4,10 +4,10 @@ layout: default
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 40px; border-bottom: 1px solid #e0e0e0; padding-bottom: 25px; gap: 20px; flex-wrap: wrap;">
 
-  <!-- Left side: profile image, name, social links, handle -->
+  <!-- Left side: profile image, name, social links, handle, intake forms -->
   <div style="flex: 1; min-width: 250px; display: flex; flex-direction: column; align-items: flex-start;">
 
-    <!-- Slightly bigger rectangular profile image -->
+    <!-- Profile image -->
     <img src="https://github.com/chnkukoolwal/chnkukoolwal.github.io/blob/main/IMG_9253%20copy.png?raw=true" 
          alt="Chinku Koolwal" 
          style="width: 230px; height: auto; object-fit: cover; margin-bottom: 10px;">
@@ -29,9 +29,18 @@ layout: default
     </p>
 
     <!-- Handle -->
-    <p style="margin: 0; font-size: 14px; color: #888; line-height: 1.2;">
+    <p style="margin: 0 0 10px 0; font-size: 14px; color: #888; line-height: 1.2;">
       <a href="https://linktr.ee/chnkukoolwal" style="color: inherit; text-decoration: none;">@chnkukoolwal</a>
     </p>
+
+    <!-- Intake form links -->
+    <p style="margin: 5px 0 2px 0; font-size: 14px; color: #555; line-height: 1.2;">
+      Join our portfolio: <a href="https://jazzy-yttrium-143.notion.site/326cd7e0672c810385dfc3251f95ae38?pvs=105" style="color: #111; text-decoration: none;">Founder Intake Form</a>
+    </p>
+    <p style="margin: 2px 0 0 0; font-size: 14px; color: #555; line-height: 1.2;">
+      Join the fund: <a href="https://jazzy-yttrium-143.notion.site/327cd7e0672c814eb9a1e77dcf94e955?pvs=105" style="color: #111; text-decoration: none;">Investor Intake Form</a>
+    </p>
+
   </div>
 
   <!-- Right side: subscribe box -->

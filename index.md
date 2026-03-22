@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div style="margin-bottom: 60px; border-bottom: 1px solid #e0e0e0; padding-bottom: 25px;">
+<div style="margin-bottom: 40px; border-bottom: 1px solid #e0e0e0; padding-bottom: 25px;">
 
   <h1 style="margin: 0; font-size: 32px; font-weight: 600; line-height: 1.2;">
     Chinku Koolwal
@@ -12,10 +12,17 @@ layout: default
     Startup Advisor & Venture Scout
   </p>
 
-  <p style="margin: 5px 0 0 0; font-size: 14px; color: #888;">
-    <a href="https://linktr.ee/chnkukoolwal" style="color: inherit; text-decoration: none;">
-      @chnkukoolwal
-    </a>
+  <p style="margin: 5px 0 10px 0; font-size: 14px; color: #888;">
+    <a href="https://linktr.ee/chnkukoolwal" style="color: inherit; text-decoration: none;">@chnkukoolwal</a>
+  </p>
+
+  <!-- Connect & Subscribe links -->
+  <p style="margin: 10px 0 0 0; font-size: 14px; color: #555;">
+    <a href="https://www.linkedin.com/in/chnkukoolwal/" style="color: inherit; text-decoration: none;">LinkedIn</a> • 
+    <a href="https://x.com/chnkukoolwal" style="color: inherit; text-decoration: none;">X</a> •
+    <a href="https://chnkukoolwal.medium.com/" style="color: inherit; text-decoration: none;">Medium</a> •
+    <a href="https://substack.com/@chnkukoolwal" style="color: inherit; text-decoration: none;">Substack</a> •
+    <a href="#subscribe" style="color: inherit; text-decoration: none;">Subscribe via Email</a>
   </p>
 
 </div>
@@ -39,3 +46,17 @@ layout: default
 
   </article>
 {% endfor %}
+
+<!-- Email subscribe section -->
+<div id="subscribe" style="margin-top: 60px; padding: 30px; border-top: 1px solid #e0e0e0;">
+  <h3 style="margin-bottom: 10px; font-weight: 600;">Subscribe to my updates</h3>
+  <p style="margin-bottom: 15px; color: #555; font-size: 14px;">
+    Get weekly updates on startups, investing, and insights directly to your inbox.
+  </p>
+
+  <!-- Email form (step by step below) -->
+  <form action="YOUR_EMAIL_PROVIDER_FORM_URL" method="post" style="display: flex; flex-wrap: wrap; gap: 10px; max-width: 400px;">
+    <input type="email" name="email" placeholder="Your email" required style="flex: 1; padding: 8px 10px; font-size: 14px; border: 1px solid #ccc; border-radius: 4px;">
+    <button type="submit" style="padding: 8px 15px; font-size: 14px; background: #111; color: #fff; border: none; border-radius: 4px; cursor: pointer;">Subscribe</button>
+  </form>
+</div>

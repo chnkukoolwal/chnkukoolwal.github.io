@@ -3,20 +3,21 @@
 
 @import "{{ site.theme }}";
 
-/* Layout */
+/* Page layout */
 body {
-  max-width: 700px;
-  margin: 40px auto;
+  max-width: 680px;
+  margin: 60px auto;
   padding: 0 20px;
-  background: white;
-  color: #111;
+  background: #ffffff;
+  color: #111111;
   font-family: "Times New Roman", Times, serif !important;
-  line-height: 1.7;
+  line-height: 1.75;
 }
 
-/* Force all text to use it */
-* {
-  font-family: "Times New Roman", Times, serif !important;
+/* Remove header + footer clutter */
+.site-header,
+.site-footer {
+  display: none;
 }
 
 /* Titles */
@@ -24,23 +25,27 @@ h1, h2, h3 {
   font-weight: 600;
 }
 
-/* Links */
-a {
-  color: black;
+/* Post titles */
+h2 a {
+  color: #111;
   text-decoration: none;
 }
 
-a:hover {
+h2 a:hover {
   text-decoration: underline;
+}
+
+/* Links */
+a {
+  color: #111;
+}
+
+/* Paragraph spacing */
+p {
+  margin-bottom: 18px;
 }
 
 /* Article spacing */
 article {
-  margin-bottom: 80px;
-}
-
-/* Remove weird theme elements */
-.site-header,
-.site-footer {
-  display: none;
+  margin-bottom: 90px;
 }

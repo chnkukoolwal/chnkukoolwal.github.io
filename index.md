@@ -2,7 +2,19 @@
 layout: default
 ---
 
-<h1 style="margin-bottom: 40px;">Chinku Koolwal</h1>
+<div style="margin-bottom: 50px;">
+
+  <h1 style="margin-bottom: 5px;">Chinku Koolwal</h1>
+
+  <p style="margin: 0; font-size: 16px; color: #444;">
+    Startup Advisor & Venture Scout
+  </p>
+
+  <p style="margin: 5px 0 0 0; font-size: 14px; color: #777;">
+    @chnkukoolwal
+  </p>
+
+</div>
 
 {% for post in site.posts %}
   <article style="margin-bottom: 80px;">

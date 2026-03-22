@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+/* FORCE remove header and footer */
+.site-header,
+.site-footer {
+  display: none !important;
+}
+
 /* Page layout */
 body {
   max-width: 680px;
@@ -12,12 +18,6 @@ body {
   color: #111111;
   font-family: "Times New Roman", Times, serif !important;
   line-height: 1.75;
-}
-
-/* Remove header + footer clutter */
-.site-header,
-.site-footer {
-  display: none;
 }
 
 /* Titles */
@@ -35,6 +35,20 @@ h2 a:hover {
   text-decoration: underline;
 }
 
+/* Links */
+a {
+  color: #111;
+}
+
+/* Paragraph spacing */
+p {
+  margin-bottom: 18px;
+}
+
+/* Article spacing */
+article {
+  margin-bottom: 90px;
+}
 /* Links */
 a {
   color: #111;

@@ -12,7 +12,7 @@ layout: default
          alt="Chinku Koolwal" 
          style="width: 230px; height: auto; object-fit: cover; margin-bottom: 10px;">
 
-    <h1 style="margin: 0 0 5px 0; font-size: 32px; font-weight: 600; line-height: 1.2;">
+    <h1 style="margin: 0 0 5px 0; font-size: 28px; font-weight: 600; line-height: 1.2;">
       Chinku Koolwal
     </h1>
 

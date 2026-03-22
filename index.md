@@ -22,7 +22,6 @@ layout: default
     <a href="https://x.com/chnkukoolwal" style="color: inherit; text-decoration: none;">X</a> •
     <a href="https://chnkukoolwal.medium.com/" style="color: inherit; text-decoration: none;">Medium</a> •
     <a href="https://substack.com/@chnkukoolwal" style="color: inherit; text-decoration: none;">Substack</a> •
-    <a href="#subscribe" style="color: inherit; text-decoration: none;">Subscribe via Email</a>
   </p>
 
 </div>

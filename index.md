@@ -22,23 +22,23 @@ layout: default
 
     <!-- Social links -->
     <p style="margin: 0 0 5px 0; font-size: 14px; color: #555; line-height: 1.2;">
-      <a href="https://www.linkedin.com/in/chnkukoolwal/" style="color: inherit; text-decoration: none;">LinkedIn</a> •
-      <a href="https://x.com/chnkukoolwal" style="color: inherit; text-decoration: none;">X</a> •
-      <a href="https://chnkukoolwal.medium.com/" style="color: inherit; text-decoration: none;">Medium</a> •
-      <a href="https://substack.com/@chnkukoolwal" style="color: inherit; text-decoration: none;">Substack</a>
+      <a href="https://www.linkedin.com/in/chnkukoolwal/" style="color: inherit; text-decoration: underline;">LinkedIn</a> •
+      <a href="https://x.com/chnkukoolwal" style="color: inherit; text-decoration: underline;">X</a> •
+      <a href="https://chnkukoolwal.medium.com/" style="color: inherit; text-decoration: underline;">Medium</a> •
+      <a href="https://substack.com/@chnkukoolwal" style="color: inherit; text-decoration: underline;">Substack</a>
     </p>
 
     <!-- Handle -->
     <p style="margin: 0 0 10px 0; font-size: 14px; color: #888; line-height: 1.2;">
-      <a href="https://linktr.ee/chnkukoolwal" style="color: inherit; text-decoration: none;">@chnkukoolwal</a>
+      <a href="https://linktr.ee/chnkukoolwal" style="color: inherit; text-decoration: underline;">@chnkukoolwal</a>
     </p>
 
     <!-- Intake form links -->
     <p style="margin: 5px 0 2px 0; font-size: 14px; color: #555; line-height: 1.2;">
-      Join the portfolio: <a href="https://jazzy-yttrium-143.notion.site/326cd7e0672c810385dfc3251f95ae38?pvs=105" style="color: #111; text-decoration: none;">Founder Intake Form</a>
+      Join the portfolio: <a href="https://jazzy-yttrium-143.notion.site/326cd7e0672c810385dfc3251f95ae38?pvs=105" style="color: #111; text-decoration: underline;">Founder Intake Form</a>
     </p>
     <p style="margin: 2px 0 0 0; font-size: 14px; color: #555; line-height: 1.2;">
-      Join the fund: <a href="https://jazzy-yttrium-143.notion.site/327cd7e0672c814eb9a1e77dcf94e955?pvs=105" style="color: #111; text-decoration: none;">Investor Intake Form</a>
+      Join the fund: <a href="https://jazzy-yttrium-143.notion.site/327cd7e0672c814eb9a1e77dcf94e955?pvs=105" style="color: #111; text-decoration: underline;">Investor Intake Form</a>
     </p>
 
   </div>
@@ -70,7 +70,7 @@ layout: default
     </p>
 
     <h2 style="margin-bottom: 15px;">
-      <a href="{{ post.url }}" style="color: #111; text-decoration: none;">
+      <a href="{{ post.url }}" style="color: #111; text-decoration: underline;">
         {{ post.title }}
       </a>
     </h2>

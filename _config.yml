@@ -1,5 +1,5 @@
 title: "Chinku Koolwal"
 description: "Weekly posts"
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed

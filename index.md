@@ -10,7 +10,7 @@ layout: default
       Chinku Koolwal
     </h1>
 
-    <p style="margin: 0 0 10px 0; font-size: 16px; color: #555; font-weight: 400; line-height: 1.4;">
+    <p style="margin: 0 0 10px 0; font-size: 16px; color: #555; font-weight: 400; line-height: 1.4; font-style: italic;">
       Startup Advisor & Venture Scout
     </p>
 

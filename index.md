@@ -10,6 +10,9 @@ layout: default
       Chinku Koolwal
     </h1>
 
+    <p style="margin: 5px 0 0 0; font-size: 16px; color: #555; font-weight: 400;">
+      Startup Advisor & Venture Scout
+
     <p style="margin: 10px 0 5px 0; font-size: 14px; color: #555;">
       <a href="https://www.linkedin.com/in/chnkukoolwal/" style="color: inherit; text-decoration: none;">LinkedIn</a> • 
       <a href="https://x.com/chnkukoolwal" style="color: inherit; text-decoration: none;">X</a> •
@@ -21,8 +24,7 @@ layout: default
       <a href="https://linktr.ee/chnkukoolwal" style="color: inherit; text-decoration: none;">@chnkukoolwal</a>
     </p>
 
-    <p style="margin: 5px 0 0 0; font-size: 16px; color: #555; font-weight: 400;">
-      Startup Advisor & Venture Scout
+    
     </p>
   </div>
 

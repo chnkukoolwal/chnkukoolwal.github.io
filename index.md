@@ -31,7 +31,7 @@ layout: default
   <div id="subscribe" style="flex-shrink: 0; max-width: 300px; border: 1px solid #e0e0e0; border-radius: 6px; padding: 20px; background: #fafafa;">
     <h3 style="margin-bottom: 10px; font-weight: 600;">Subscribe to my updates</h3>
     <p style="margin-bottom: 15px; color: #555; font-size: 14px;">
-      Get weekly updates on startups, venture capital, and ecosystem insights directly to your inbox.
+      Get weekly updates on startups, fundraising, and the venture ecosystem directly to your inbox.
     </p>
 
     <form action="YOUR_EMAIL_PROVIDER_FORM_URL" method="post" style="display: flex; flex-wrap: wrap; gap: 10px;">

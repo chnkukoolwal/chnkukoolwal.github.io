@@ -51,7 +51,7 @@ layout: default
 <div id="subscribe" style="margin-top: 60px; padding: 30px; border-top: 1px solid #e0e0e0;">
   <h3 style="margin-bottom: 10px; font-weight: 600;">Subscribe to my updates</h3>
   <p style="margin-bottom: 15px; color: #555; font-size: 14px;">
-    Get weekly updates on startups, investing, and insights directly to your inbox.
+    Get weekly updates on startups, venture capital, and ecosystem insights directly to your inbox.
   </p>
 
   <!-- Email form (step by step below) -->

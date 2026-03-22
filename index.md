@@ -6,23 +6,23 @@ layout: default
 
   <!-- Left side: name, social links, handle -->
   <div style="flex: 1; min-width: 250px;">
-    <h1 style="margin: 0; font-size: 32px; font-weight: 600; line-height: 1.2;">
+    <h1 style="margin: 0 0 10px 0; font-size: 32px; font-weight: 600; line-height: 1.4;">
       Chinku Koolwal
     </h1>
 
-    <p style="margin: 5px 0 10px 0; font-size: 16px; color: #555; font-weight: 400;">
+    <p style="margin: 0 0 10px 0; font-size: 16px; color: #555; font-weight: 400; line-height: 1.4;">
       Startup Advisor & Venture Scout
     </p>
 
     <!-- Social links -->
-    <p style="margin: 5px 0 5px 0; font-size: 14px; color: #555;">
+    <p style="margin: 0 0 10px 0; font-size: 14px; color: #555; line-height: 1.4;">
       <a href="https://www.linkedin.com/in/chnkukoolwal/" style="color: inherit; text-decoration: none;">LinkedIn</a> •
       <a href="https://x.com/chnkukoolwal" style="color: inherit; text-decoration: none;">X</a> •
       <a href="https://chnkukoolwal.medium.com/" style="color: inherit; text-decoration: none;">Medium</a> •
       <a href="https://substack.com/@chnkukoolwal" style="color: inherit; text-decoration: none;">Substack</a>
     </p>
 
-    <p style="margin: 5px 0 0 0; font-size: 14px; color: #888;">
+    <p style="margin: 0; font-size: 14px; color: #888; line-height: 1.4;">
       <a href="https://linktr.ee/chnkukoolwal" style="color: inherit; text-decoration: none;">@chnkukoolwal</a>
     </p>
   </div>

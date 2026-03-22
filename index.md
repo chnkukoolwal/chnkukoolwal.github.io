@@ -4,8 +4,14 @@ layout: default
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 40px; border-bottom: 1px solid #e0e0e0; padding-bottom: 25px; gap: 20px; flex-wrap: wrap;">
 
-  <!-- Left side: name, social links, handle -->
-  <div style="flex: 1; min-width: 250px;">
+  <!-- Left side: profile image, name, social links, handle -->
+  <div style="flex: 1; min-width: 250px; display: flex; flex-direction: column; align-items: flex-start;">
+
+    <!-- Profile image -->
+    <img src="https://github.com/chnkukoolwal/chnkukoolwal.github.io/blob/main/IMG_9253.jpg?raw=true" 
+         alt="Chinku Koolwal" 
+         style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%; margin-bottom: 15px;">
+
     <h1 style="margin: 0 0 10px 0; font-size: 32px; font-weight: 600; line-height: 1.4;">
       Chinku Koolwal
     </h1>
@@ -22,6 +28,7 @@ layout: default
       <a href="https://substack.com/@chnkukoolwal" style="color: inherit; text-decoration: none;">Substack</a>
     </p>
 
+    <!-- Handle -->
     <p style="margin: 0; font-size: 14px; color: #888; line-height: 1.4;">
       <a href="https://linktr.ee/chnkukoolwal" style="color: inherit; text-decoration: none;">@chnkukoolwal</a>
     </p>

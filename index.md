@@ -8,7 +8,7 @@ layout: default
   <div style="flex: 1; min-width: 250px; display: flex; flex-direction: column; align-items: flex-start;">
 
     <!-- Rectangular profile image -->
-    <img src="https://github.com/chnkukoolwal/chnkukoolwal.github.io/blob/main/IMG_9253.jpg?raw=true" 
+    <img src="https://github.com/chnkukoolwal/chnkukoolwal.github.io/blob/main/IMG_9253%20copy.png?raw=true" 
          alt="Chinku Koolwal" 
          style="width: 150px; height: auto; object-fit: cover; margin-bottom: 15px;">
 

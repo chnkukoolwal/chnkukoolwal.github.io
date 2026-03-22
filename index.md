@@ -7,21 +7,21 @@ layout: default
   <!-- Left side: profile image, name, social links, handle -->
   <div style="flex: 1; min-width: 250px; display: flex; flex-direction: column; align-items: flex-start;">
 
-    <!-- Rectangular profile image -->
+    <!-- Bigger rectangular profile image -->
     <img src="https://github.com/chnkukoolwal/chnkukoolwal.github.io/blob/main/IMG_9253%20copy.png?raw=true" 
          alt="Chinku Koolwal" 
-         style="width: 150px; height: auto; object-fit: cover; margin-bottom: 15px;">
+         style="width: 200px; height: auto; object-fit: cover; margin-bottom: 10px;">
 
-    <h1 style="margin: 0 0 10px 0; font-size: 32px; font-weight: 600; line-height: 1.4;">
+    <h1 style="margin: 0 0 5px 0; font-size: 32px; font-weight: 600; line-height: 1.2;">
       Chinku Koolwal
     </h1>
 
-    <p style="margin: 0 0 10px 0; font-size: 16px; color: #555; font-weight: 400; line-height: 1.4; font-style: italic;">
+    <p style="margin: 0 0 5px 0; font-size: 16px; color: #555; font-weight: 400; line-height: 1.2; font-style: italic;">
       Startup Advisor & Venture Scout
     </p>
 
     <!-- Social links -->
-    <p style="margin: 0 0 10px 0; font-size: 14px; color: #555; line-height: 1.4;">
+    <p style="margin: 0 0 5px 0; font-size: 14px; color: #555; line-height: 1.2;">
       <a href="https://www.linkedin.com/in/chnkukoolwal/" style="color: inherit; text-decoration: none;">LinkedIn</a> •
       <a href="https://x.com/chnkukoolwal" style="color: inherit; text-decoration: none;">X</a> •
       <a href="https://chnkukoolwal.medium.com/" style="color: inherit; text-decoration: none;">Medium</a> •
@@ -29,7 +29,7 @@ layout: default
     </p>
 
     <!-- Handle -->
-    <p style="margin: 0; font-size: 14px; color: #888; line-height: 1.4;">
+    <p style="margin: 0; font-size: 14px; color: #888; line-height: 1.2;">
       <a href="https://linktr.ee/chnkukoolwal" style="color: inherit; text-decoration: none;">@chnkukoolwal</a>
     </p>
   </div>

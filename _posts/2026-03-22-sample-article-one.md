@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The State of Early-Stage Startups in 2026"
+title: "The State of Early-Stage Startups in 2026" 
 date: 2026-03-22 10:00:00
 ---
 The early-stage startup ecosystem has never been more dynamic. In this article, we explore:

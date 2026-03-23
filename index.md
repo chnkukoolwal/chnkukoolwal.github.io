@@ -48,7 +48,7 @@ layout: default
     
     <!-- Description above subscribe input -->
     <p style="margin-bottom: 15px; color: #555; font-size: 14px;">
-      Get weekly updates on startups and venture capital directly to your inbox.
+      Get weekly updates on startups, fundraising and the current venture ecosystem climate directly to your inbox.
     </p>
 
     <!-- Minimal Substack subscribe iframe -->

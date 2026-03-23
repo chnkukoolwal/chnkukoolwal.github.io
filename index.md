@@ -53,7 +53,7 @@ layout: default
 
     <!-- Minimal Substack subscribe iframe -->
     <iframe src="https://chnkukoolwal.substack.com/embed?type=subscribe_only" 
-            width="100%" height="60" 
+            width="100%" height="66" 
             style="border: 1px solid #EEE; background: white;" 
             frameborder="0" scrolling="no">
     </iframe>

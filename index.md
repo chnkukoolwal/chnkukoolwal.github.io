@@ -12,12 +12,10 @@ layout: default
          alt="Chinku Koolwal" 
          style="width: 260px; height: auto; object-fit: cover; margin-bottom: 10px;">
 
-    <!-- Name -->
-    <h1 style="margin: 0 0 5px 0; font-size: 24px; font-weight: 600; line-height: 1.2;">
+    <h1 style="margin: 0 0 5px 0; font-size: 28px; font-weight: 600; line-height: 1.2;">
       Chinku Koolwal
     </h1>
 
-    <!-- Subtitle -->
     <p style="margin: 0 0 5px 0; font-size: 16px; color: #555; font-weight: 400; line-height: 1.2; font-style: italic;">
       Startup Advisor & Venture Scout
     </p>
@@ -48,14 +46,18 @@ layout: default
   <!-- Right side: subscribe box -->
   <div id="subscribe" style="flex-shrink: 0; max-width: 300px; border: 1px solid #e0e0e0; border-radius: 6px; padding: 20px; background: #fafafa;">
     
-    <!-- Custom descriptive text above the iframe -->
+    <!-- Description above subscribe input -->
     <p style="margin-bottom: 15px; color: #555; font-size: 14px;">
-      Get weekly updates on startups and venture capital directly to your inbox
+      Get weekly updates on startups and venture capital directly to your inbox.
     </p>
 
-    <!-- Substack iframe -->
-    <iframe src="https://chnkukoolwal.substack.com/embed" width="100%" height="320" style="border: 1px solid #EEE; background: white; border-radius: 6px;" frameborder="0" scrolling="no"></iframe>
-
+    <!-- Minimal Substack subscribe iframe -->
+    <iframe src="https://chnkukoolwal.substack.com/embed?type=subscribe_only" 
+            width="100%" height="60" 
+            style="border: 1px solid #EEE; background: white;" 
+            frameborder="0" scrolling="no">
+    </iframe>
+    
   </div>
 
 </div>

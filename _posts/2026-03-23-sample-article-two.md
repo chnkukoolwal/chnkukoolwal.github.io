@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Every Founder Should Track Metrics Weekly"
+title: Why Every Founder Should Track Metrics Weekly
 date: 2026-03-23 09:00:00
 ---
 Metrics are not just numbers; they are signals. Founders who track their key performance indicators weekly can:
